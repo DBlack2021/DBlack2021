@@ -3,7 +3,8 @@
 ### 🖥️ I'm a proud nerd, aspiring software developer, and a techie passionate about education and data
 
 ### 🥁 I'm a web dev intern at (drumroll please...)
-![fiveable](https://fiveable.me/wp-content/uploads/2020/06/fiveable-pride-flag-new-copy.png)
+[![fiveable](https://fiveable.me/wp-content/uploads/2020/06/fiveable-pride-flag-new-copy.png)](http://app.fiveable.me "Redirect to homepage")
+
 ### working to make education a better place for everyone :) 
 
 ### 🔭 I’m currently working on learning React, Redux, and other web dev tools
