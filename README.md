@@ -3,7 +3,7 @@
 ### 🖥️ I'm a proud nerd and aspiring software developer who loves education, retro video games, and front-end development
 
 ### 🥁 I'm a web dev and courses intern at (drumroll please...)
-[![fiveable](https://media-exp1.licdn.com/dms/image/C4E0BAQFyFplw7ZsQiQ/company-logo_100_100/0?e=1604534400&v=beta&t=ulMpaDhLCdbsMqRa9bwC15zCIB2Xm6kQYjjx7Z9yxeQ)](http://fiveable.me "Redirect to homepage")
+[![fiveable](https://fiveable.me/img/fiveable-blue.png)](http://fiveable.me "Redirect to homepage")
 ### Fiveable!
 
 ### I'm working to make education a better place for everyone :) 
