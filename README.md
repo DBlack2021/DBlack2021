@@ -8,7 +8,7 @@
 
 ### I'm working to make education a better place for everyone :) 
 
-### Check out my website at ![dylanblack.dev](https://www.dylanblack.dev)
+### Check out my website at [dylanblack.dev](https://www.dylanblack.dev)
 
 ### 🔭 I’m currently working on learning React, Redux, and other web dev tools
 
