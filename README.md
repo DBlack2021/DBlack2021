@@ -10,13 +10,13 @@
 
 ### Check out my website at [dylanblack.dev](https://www.dylanblack.dev)
 
-### 🔭 I’m currently working on learning React, Redux, and other web dev tools
+### 🔭 I’m currently working on learning React and other web dev tools
 
 ### ⚡ Fun fact: I'm part of a podcast! 🎙️ Check out [Homeroom at Fiveable](https://homeroom.fiveable.me)
 
-### 😄 Goals for 2020
-- Learn something new every day
-- Gain more confidence in my work and in myself
+### 😄 Goals for 2021
+- Learn more about design and UX/UI
+- Collaborate with more devs and get my feet wet with open source
 - Build out my portfolio of projects!
 
 ### :point_right:  You can contact me on [LinkedIn](https://www.linkedin.com/in/dylan-black-2021/) or [Twitter](https://twitter.com/Dyljam12345)
