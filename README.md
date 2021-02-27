@@ -2,9 +2,8 @@
 
 ### 🖥️ I'm a proud nerd and aspiring software developer who loves education, retro video games, and front-end development
 
-### 🥁 I'm a web dev and courses intern at (drumroll please...)
+### 🥁 I'm currently an intern at (drumroll please...)
 [![fiveable](https://fiveable.me/img/fiveable-blue.png)](http://fiveable.me "Redirect to homepage")
-### Fiveable!
 
 ### I'm working to make education a better place for everyone :) 
 
@@ -16,6 +15,7 @@
 
 ### 😄 Goals for 2021
 - Learn more about design and UX/UI
+- Learn more back-end development and move into fullstack development
 - Collaborate with more devs and get my feet wet with open source
 - Build out my portfolio of projects!
 
