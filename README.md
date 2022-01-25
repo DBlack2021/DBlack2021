@@ -9,11 +9,9 @@
 
 ### Check out my website at [dylanblack.dev](https://www.dylanblack.dev)
 
-### 🔭 I’m currently working on learning React and other web dev tools
+### 🔭 I’m currently a first-year Computer Science and History major at [Northeastern University](https://www.khoury.northeastern.edu/programs/bs-computer-sciencehistory/) (go Huskies!)
 
-### ⚡ Fun fact: I'm part of a podcast! 🎙️ Check out [Homeroom at Fiveable](https://homeroom.fiveable.me)
-
-### 😄 Goals for 2021
+### 😄 Goals for 2022
 - Learn more about design and UX/UI
 - Learn more back-end development and move into fullstack development
 - Collaborate with more devs and get my feet wet with open source
