@@ -2,14 +2,14 @@
 
 ### 🖥️ I'm a proud nerd and aspiring software developer who loves education, retro video games, and front-end development
 
-### 🥁 I'm currently the Learning Project Coordinator at (drumroll please...)
+### 🥁 I'm currently a Student Success Data Analyst at (drumroll please...)
 [![fiveable](https://fiveable.me/img/logos/fiveable-logo-large.svg)](http://fiveable.me "Redirect to homepage")
 
 ### I'm working to make education a better place for everyone :) 
 
 ### Check out my website at [dylanblack.dev](https://www.dylanblack.dev)
 
-### 🔭 I’m currently a first-year Computer Science and History major at [Northeastern University](https://www.khoury.northeastern.edu/programs/bs-computer-sciencehistory/) (go Huskies!)
+### 🔭 I’m currently a first-year History and Economics major with a minor in Computer Science at [Northeastern University](https://www.khoury.northeastern.edu/programs/bs-computer-sciencehistory/) (go Huskies!)
 
 ### 😄 Goals for 2022
 - Learn more about design and UX/UI
