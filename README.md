@@ -3,7 +3,7 @@
 ### 🖥️ I'm a proud nerd and aspiring software developer who loves education, retro video games, and front-end development
 
 ### 🥁 I'm currently the Learning Project Coordinator at (drumroll please...)
-[![fiveable](https://fiveable.me/img/fiveable-blue.png)](http://fiveable.me "Redirect to homepage")
+[![fiveable](https://fiveable.me/img/logos/fiveable-logo-large.svg)](http://fiveable.me "Redirect to homepage")
 
 ### I'm working to make education a better place for everyone :) 
 
