@@ -7,9 +7,9 @@
 
 ### I'm working to make education a better place for everyone :) 
 
-### Check out my website at [dylanblack.dev](https://www.dylanblack.dev)
+### Check out my website at [dylanblack.info](https://www.dylanblack.info)
 
-### 🔭 I’m currently a first-year History and Economics major with a minor in Computer Science at [Northeastern University](https://www.khoury.northeastern.edu/programs/bs-computer-sciencehistory/) (go Huskies!)
+### 🔭 I’m currently a first-year History and Economics major with a minor in Computer Science at [Northeastern University](https://cssh.northeastern.edu/history/program/bs-in-history-economics/) (go Huskies!)
 
 ### 😄 Goals for 2022
 - Learn more about design and UX/UI
