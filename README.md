@@ -12,7 +12,7 @@
 ### 🔭 I’m currently a first-year History and Economics major with a minor in Computer Science at [Northeastern University](https://cssh.northeastern.edu/history/program/bs-in-history-economics/) (go Huskies!)
 
 ### 😄 Goals for 2022
-- Learn more about design and UX/UI
+- Learn more about programming with data, learn R, Python, and SQL!
 - Learn more back-end development and move into fullstack development
 - Collaborate with more devs and get my feet wet with open source
 - Build out my portfolio of projects!
