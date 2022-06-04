@@ -2,10 +2,7 @@
 
 ### 🖥️ I'm a proud nerd and aspiring software developer who loves education, retro video games, and front-end development
 
-### 🥁 I'm currently a Student Success Data Analyst at (drumroll please...)
-[![fiveable](https://fiveable.me/img/logos/fiveable-logo-large.svg)](http://fiveable.me "Redirect to homepage")
-
-### I'm working to make education a better place for everyone :) 
+### Some other interests of mine include economics and historical research. Check out some of my publications on my website! Speaking of...
 
 ### Check out my website at [dylanblack.info](https://www.dylanblack.info)
 
