@@ -1,18 +1,17 @@
 # 👋 Hello hello! I'm Dylan // he/him
 
-### 🖥️ I'm a proud nerd, software developer, and data scientist who loves education, retro video games, and telling stories with data
+### 🖥️ I'm a proud nerd, aspiring economist, and data scientist who loves education, retro video games, and telling stories with data
 
-### Some other interests of mine include economics and historical research. Check out some of my publications on my website! Speaking of...
+### My research interests lie in the fields of labor economics, the economics of education, and economic history. Check out some of my publications on my website! Speaking of...
 
 ### Check out my website at [dylanblack.info](https://www.dylanblack.info)
 
-### 🔭 I’m currently a third-year History and Economics major with minors in Data Science, Mathematics, and Computational Social Sciences at [Northeastern University](https://cssh.northeastern.edu/history/program/bs-in-history-economics/) (go Huskies!)
+### 🔭 I’m currently a fourth-year History and Economics major with minors in Data Science, Mathematics, and Computational Social Sciences at [Northeastern University](https://cssh.northeastern.edu/history/program/bs-in-history-economics/) (go Huskies!)
 
-### 😄 Goals for 2023
-- Learn more about programming with data, learn R, Python, and SQL!
-- Learn more back-end development and move into fullstack development
-- Collaborate with more devs and get my feet wet with open source
-- Build out my portfolio of projects!
+### 😄 Goals for 2024
+- Continue working on research projects related to labor and education economics
+- Gain more experience in micro theory and econometrics
+- Apply for graduate school and predocs
 
 ### :point_right:  You can contact me on [LinkedIn](https://www.linkedin.com/in/dylan-black-2021/) or [Twitter](https://twitter.com/DBlack2021)
 
